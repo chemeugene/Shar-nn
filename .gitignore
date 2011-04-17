@@ -15,8 +15,8 @@ config.core.php
 modext.js
 
 # ignore common root paths for docs and assets
-/docs/
-/assets/
+#/docs/
+#/assets/
 
 # ignore various IDE project files and folders
 .idea/
