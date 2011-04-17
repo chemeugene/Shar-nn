@@ -1,0 +1,113 @@
+body {
+background-color: #f7eddf;
+margin: 0;
+padding: 0;
+}
+
+#eclipse {
+margin: 0;
+padding: 0;
+}
+
+#header {
+margin: 0 auto;
+padding: 0;
+width: 1004px;
+height: 174px;
+}
+
+#header1 {
+background-image: url("/assets/design/header01.jpg");
+width: 222px;
+height: 174px;
+float: left;
+}
+
+#header2 {
+background-image: url("/assets/design/header02.jpg");
+width: 782px;
+height: 174px;
+float: left;
+}
+
+#menuHorizontal {
+background-image: url("/assets/design/menuH.jpg");
+width: 1004px;
+height: 54px;
+margin: 0 auto;
+padding: 0;
+}
+
+#gogo {
+margin: 0 auto;
+padding: 0;
+width: 1004px;
+}
+
+#menuVertical {
+background-image: url("/assets/design/menuV.jpg");
+width: 222px;
+height: 446px;
+float: left;
+font-family: Georgia;
+font-weight: bold;
+}
+
+#menuVertical ul {
+list-style: none outside none;
+line-height: normal;
+margin: 25px;
+padding: 0;
+}
+
+#menuVertical  a:link {
+color: white;
+text-decoration: none;
+}
+
+#menuVertical  a:visited {
+color: white;
+text-decoration: none;
+}
+
+#menuVertical  a:hover {
+color: #ea5a68;
+text-decoration: none;
+}
+
+#menuVertical  a:active {
+color: #ea5a68;
+text-decoration: none;
+}
+
+#menuVertical li {
+background-image: url("/assets/design/menuDelim.png");
+background-repeat: no-repeat;
+background-position: left bottom;
+vertical-align: top;
+height: 32px;
+}
+
+#menuVertical li a {
+display: block;
+height: 18px;
+font-size: 13px;
+}
+
+#contentLayout {
+background-image: url("/assets/design/corner.jpg");
+background-position: left top;
+background-repeat: no-repeat;
+width: 782px;
+min-height: 446px;
+float: right;
+}
+
+#footer {
+background-image: url("/assets/design/footer.jpg");
+width: 1004px;
+height: 72px;
+margin: 0 auto;
+padding: 0;
+clear: both;
+}
